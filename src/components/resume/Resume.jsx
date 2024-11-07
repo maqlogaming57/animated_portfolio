@@ -45,15 +45,17 @@ const Resume = () => {
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
                   <b>IT Network Engineer</b><br></br>
-                  Seorang IT Network Engineer bertanggung jawab untuk merancang, mengimplementasikan, dan menjaga infrastruktur jaringan komputer suatu organisasi.
-                  Mereka mengelola perangkat keras dan perangkat lunak jaringan, termasuk router, switch, firewall, dan perangkat jaringan lainnya.
-                  Tugas utama mereka adalah memastikan ketersediaan jaringan yang stabil, keamanan data, dan kinerja yang optimal.
+                  Administrasi Jaringan Mikrotik: Mengelola dan mengonfigurasi perangkat jaringan Mikrotik untuk memastikan konektivitas dan keamanan jaringan yang stabil, 
+                  termasuk pengaturan firewall, VLAN, routing, VMware dan pemantauan lalu lintas jaringan.
                   <br></br>
                   <b>Database Administrator</b>
                   <br></br>
-                  Seorang Database Administrator (DBA) bertanggung jawab untuk mengelola dan menjaga sistem basis data suatu organisasi.
-                  Mereka merancang skema basis data, mengelola penggunaan data, melakukan pemeliharaan rutin, dan memastikan keamanan data.
-                  DBA juga harus melakukan pemulihan data dalam kasus kegagalan sistem dan memastikan kinerja basis data yang baik.
+                  Maintenance Database: Melakukan pemeliharaan rutin pada database untuk memastikan performa optimal, 
+                  melakukan backup, monitoring, serta troubleshooting untuk menjaga integritas dan keamanan data.
+                  <br></br>
+                  <b>Programmer</b>
+                  <br></br>
+                  Melakukan development beberapa program berbasis web penunjang kinerja perbankan.
                 </p>
               </div>
             </div>

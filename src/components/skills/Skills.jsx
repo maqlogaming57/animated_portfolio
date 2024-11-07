@@ -7,7 +7,7 @@ import { IoLogoHtml5, IoLogoCss3 } from "react-icons/io";
 
 import {
   SiJavascript,
-  SiTailwindcss,
+  // SiTailwindcss,
   SiMongodb,
   SiExpress,
   SiMicrosoftsqlserver,
@@ -52,11 +52,11 @@ const Skills = ({ darkMode }) => {
                   value={80}
                 />
                 <ProgressBar logo={<FaReact />} name={"React Js"} value={80} />
-                <ProgressBar
+                {/* <ProgressBar
                   logo={<SiTailwindcss />}
                   name={"Tailwind CSS"}
                   value={80}
-                />
+                /> */}
               </div>
             </div>
           </div>

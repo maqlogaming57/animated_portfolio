@@ -26,9 +26,11 @@ const Hero = () => {
             <TypeAnimation
               data-aos="fade-up"
               sequence={[
-                "Pengangguran",
+                "Network",
                 2000,
-                "Mending turu",
+                "Web Development",
+                2000,
+                "Cloud Service",
                 2000,
                 "",
               ]}
@@ -41,7 +43,7 @@ const Hero = () => {
               // data-aos="fade-up"
               className=" text-[1.1rem] font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
             >
-              Lorem ipsum dolor sit amet consectetur
+              IT Tech Enthusiast
             </p>
           </div>
           <div data-aos="fade-up" className="buttons flex gap-5">
@@ -105,7 +107,7 @@ const Hero = () => {
             <img
             data-aos="fade-up"
               className=" h-[90%]  w-full object-cover md:h-[95%] md:m-auto sm:m-0"
-              src='https://i.postimg.cc/SN6GRK9v/Untitled-design-2.png'
+              src='https://i.ibb.co.com/rvcz2jN/Untitled-design-5.png'
               // src={mine}
               alt="mine"
             />
