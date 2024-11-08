@@ -107,7 +107,7 @@ const Hero = () => {
             <img
             data-aos="fade-up"
               className=" h-[90%]  w-full object-cover md:h-[95%] md:m-auto sm:m-0"
-              src='https://i.ibb.co.com/rvcz2jN/Untitled-design-5.png'
+              src='https://i.ibb.co.com/55tDqyR/Untitled-design-13.png'
               // src={mine}
               alt="mine"
             />

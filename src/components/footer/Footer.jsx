@@ -14,8 +14,9 @@ const Footer = () => {
           <a 
           data-aos="fade-up" data-aos-duration="1000"
 
-            href=""
+            href="https://t.me/triie57"
             className="box font-medium text-white   flex items-center justify-center flex-col"
+            target="blank"
           >
             <FaTelegramPlane className=" text-black text-3xl hover:scale-125 cursor-pointer" />
             <p>Telegram</p>
@@ -33,8 +34,9 @@ const Footer = () => {
           <a 
           data-aos="fade-up" data-aos-duration="1400"
 
-            href=""
+            href="https://www.instagram.com/tri.buana97/"
             className="box font-medium text-white  flex items-center justify-center flex-col"
+            target="blank"
           >
             <RiInstagramFill className=" text-black text-3xl hover:scale-125 cursor-pointer" />
             <p>Instagram</p>

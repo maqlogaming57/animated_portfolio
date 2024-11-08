@@ -12,10 +12,10 @@ const navItems = [
     id: 1,
     name: "skills",
   },
-  {
-    id: 2,
-    name: "works",
-  },
+  // {
+  //   id: 2,
+  //   name: "works",
+  // },
   {
     id: 3,
     name: "resume",
