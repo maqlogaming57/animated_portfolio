@@ -34,7 +34,7 @@ const Footer = () => {
           <a 
           data-aos="fade-up" data-aos-duration="1400"
 
-            href="https://www.instagram.com/tri.buana97/"
+            href="https://www.instagram.com/tri.000000xt/"
             className="box font-medium text-white  flex items-center justify-center flex-col"
             target="blank"
           >
