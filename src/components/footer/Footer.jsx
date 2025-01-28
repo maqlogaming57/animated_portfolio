@@ -24,7 +24,7 @@ const Footer = () => {
           <a 
           data-aos="fade-up" data-aos-duration="1200"
 
-            href="https://wa.me/+6285229799282"
+            href="https://wa.me/+6282241198844"
             className="box font-medium text-white  flex items-center justify-center flex-col"
             target="blank"
           >
