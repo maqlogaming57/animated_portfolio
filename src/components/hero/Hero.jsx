@@ -82,7 +82,7 @@ const Hero = () => {
                 </a>
               </li>
               <li>
-                <a href="https://www.instagram.com/tri.buana97/" target="blank">
+                <a href="https://www.instagram.com/tri.000000xt/" target="blank">
                   {" "}
                   <AiFillInstagram className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125  " />{" "}
                 </a>
